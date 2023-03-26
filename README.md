@@ -3,7 +3,7 @@
 
 ### About Me
 
-- Software Engineer at Staffwise and [Pillr](https://www.pillrplatform.com/) 🏙
+- Software Engineer at Staffwise 🏙
 - Expected to graduate Fall 2023 from Wichita State University with a Bachelors in Computer Science 📜
 - Experienced with Web and Mobile apps 🖥
 - Currently Working on a Mobile app in Swift 📱
