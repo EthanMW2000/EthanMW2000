@@ -1,7 +1,7 @@
 
 ## Welcome! 🙌
 
-## Working on my portfolio website. Keep an eye out!
+### Working on my portfolio website. Keep an eye out! 😁
 
 ### About Me
 
