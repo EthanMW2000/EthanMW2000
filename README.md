@@ -10,7 +10,3 @@
 - Experienced with Web and Mobile apps 🖥
 - Currently Working on Mobile apps in Swift 📱
 - Learning Swift and Go 🧠
-
-### My Stats
-
-![Ethan's Github Stats](https://github-readme-stats.vercel.app/api?username=EthanMW2000&count_private=true&show_icons=true&theme=tokyonight)
