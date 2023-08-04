@@ -1,7 +1,12 @@
 
 ## Welcome! 🙌
 
-### Working on a League stats website and two Swift apps!
+### Projects In The Works
+
+- Photography Portfolio
+- League Stats Site
+- GymArc | Swift App
+- Mediport | Swift App
 
 ### About Me
 
