@@ -3,10 +3,10 @@
 
 ### Projects In The Works
 
-- Photography Portfolio
-- League Stats Site
-- GymArc | Swift App
-- Mediport | Swift App
+- Photography Portfolio Showcase 📸
+- League Stats Site 📈
+- GymArc | Swift App 🏋️
+- Mediport | Swift App ⚕️
 
 ### About Me
 
