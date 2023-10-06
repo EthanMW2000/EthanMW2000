@@ -4,7 +4,6 @@
 ### Projects In The Works
 
 - Photography Portfolio Showcase 📸
-- League Stats Site 📈
 - GymArc | Swift App 🏋️
 - Mediport | Swift App ⚕️
 
