@@ -4,8 +4,7 @@
 ### Projects In The Works
 
 - Photography Portfolio Showcase 📸
-- GymArc | Swift App 🏋️
-- Mediport | Swift App ⚕️
+- Koi 📝 | React Native
 
 ### About Me
 
