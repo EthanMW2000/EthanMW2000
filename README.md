@@ -1,6 +1,6 @@
 ## Hi, I'm Ethan
 
-Software Engineer at Invista / Koch Industries. I studied Computer Science at Wichita State University and spend my personal time building things I actually want to use.
+Software Engineer at Molex / Koch Industries. I studied Computer Science at Wichita State University and spend my personal time building things I actually want to use.
 
 ---
 
